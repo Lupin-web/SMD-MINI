@@ -45,14 +45,3 @@ const LOCAL_FILE = path.join(__dirname, "cdn-smd-mini.js");
     }
   }
 })();
-const express = require('express');
-const app = express();
-const PORT = process.env.SERVER_PORT || 3000;
-
-app.get('/', (req, res) => {
-    res.send('Lupin-Bot is active and running!');
-});
-
-app.listen(PORT, '0.0.0.0', () => {
-    console.log(`Server listening on port ${PORT}`);
-});
