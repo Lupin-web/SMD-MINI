@@ -2,15 +2,15 @@
    ✦ ✦ ✦   S M D - M I N I   ✦ ✦ ✦
 
 ─────────────────────────────────────────────────────────────
-📛 Project   : SMD-MiNi
-👤 Creator   : MRSHABAN
-🌐 GitHub    : https://github.com/iTx-Sarkar
-📱 Contact   : https://t.me/@bandaheali
+📛 Project   : Lupin-Bot
+👤 Creator   : LUPIN
+🌐 GitHub    : https://github.com/Lupin-web
+📱 Contact   : https://t.me/@manulupin04@gmail.com
 📢 Channel   : https://whatsapp.com/channel/0029VaDaBJGJUM2jS0z59S3s
 🗓 Release   : 12 • Aprail • 2026 | 12:00 PM
 ─────────────────────────────────────────────────────────────
  
-//   ⭐ PROUDLY MADE IN PAKISTAN ⭐
+//   ⭐ PROUDLY MADE BY LUPIN ⭐
 */
 
 // Bnao Dost Aur Dushman Ko Dhnwan Tb Hoja Asli Ke Pehchan
